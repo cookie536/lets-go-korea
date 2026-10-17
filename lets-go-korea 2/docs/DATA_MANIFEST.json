@@ -1,0 +1,15 @@
+{
+  "source_repository": "https://github.com/Amulopapa67/open-yonsei-korean-vocabulary",
+  "source_version": "0.1.0",
+  "source_file": "data/json/vol-01.json",
+  "source_sha256": "2f2c32b333041059aa5e8f2d3fdcd97214eefcda3a1af23315039929d70d977d",
+  "selected_count": 240,
+  "selection_method": "AI travel-utility curation, not corpus frequency",
+  "selected_review_status_counts": {
+    "low": 98,
+    "high": 127,
+    "verified": 15
+  },
+  "generated_content": "All pedagogy including selection and ordering is AI generated; source records copied unchanged.",
+  "license": "CC BY-SA 3.0; upstream third-party terms retained"
+}
